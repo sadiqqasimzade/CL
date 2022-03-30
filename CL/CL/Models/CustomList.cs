@@ -14,8 +14,7 @@ namespace CL.Models
             get
             { return typeof(T); }
         }
-
-
+       
         public T this[int index]
         {
             get { return _list[index]; }
@@ -83,7 +82,7 @@ namespace CL.Models
         }
         public void RemoveAt(int index)
         {
-            if (index! > _list.Length)
+            if (index < _list.Length)
             {
                 for (int i = index; i < _list.Length - 1; i++)
                 {
@@ -113,7 +112,7 @@ namespace CL.Models
         public void ShowInfo()
         {
             foreach (var item in _list)
-                
+                if(item!=null)
                     Console.WriteLine(item);
         }
     }

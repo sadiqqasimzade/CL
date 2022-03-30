@@ -12,3 +12,17 @@ C:\Users\admin\Desktop\git\all\CL\CL\obj\Debug\netcoreapp3.1\CL.csproj.CoreCompi
 C:\Users\admin\Desktop\git\all\CL\CL\obj\Debug\netcoreapp3.1\CL.dll
 C:\Users\admin\Desktop\git\all\CL\CL\obj\Debug\netcoreapp3.1\CL.pdb
 C:\Users\admin\Desktop\git\all\CL\CL\obj\Debug\netcoreapp3.1\CL.genruntimeconfig.cache
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\bin\Debug\netcoreapp3.1\CL.exe
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\bin\Debug\netcoreapp3.1\CL.deps.json
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\bin\Debug\netcoreapp3.1\CL.runtimeconfig.json
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\bin\Debug\netcoreapp3.1\CL.runtimeconfig.dev.json
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\bin\Debug\netcoreapp3.1\CL.dll
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\bin\Debug\netcoreapp3.1\CL.pdb
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\obj\Debug\netcoreapp3.1\CL.csproj.AssemblyReference.cache
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\obj\Debug\netcoreapp3.1\CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\obj\Debug\netcoreapp3.1\CL.AssemblyInfoInputs.cache
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\obj\Debug\netcoreapp3.1\CL.AssemblyInfo.cs
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\obj\Debug\netcoreapp3.1\CL.csproj.CoreCompileInputs.cache
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\obj\Debug\netcoreapp3.1\CL.dll
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\obj\Debug\netcoreapp3.1\CL.pdb
+C:\Users\tu6w5xs1c\Desktop\CL\CL\CL\obj\Debug\netcoreapp3.1\CL.genruntimeconfig.cache

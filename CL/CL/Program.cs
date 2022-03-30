@@ -30,7 +30,7 @@ namespace CL
                        
                         try
                         {
-                            customList.Add(3);
+                            customList.Add("string");
                         }
                         catch (Exception ex)
                         {
@@ -48,19 +48,19 @@ namespace CL
                         customList.RemoveAt(2);
                         break;
                     case 5:
-                        customList.Remove(3);
+                        customList.Remove("string");
                         break;
                     case 6:
                         customList.Reverse();
                         break;
                     case 7:
-                        Console.WriteLine(customList.Exist(5));
+                        Console.WriteLine(customList.Exist("string"));
                         break;
                     case 8:
-                        Console.WriteLine(customList.IndexOf(3));
+                        Console.WriteLine(customList.IndexOf("string"));
                         break;
                     case 9:
-                        Console.WriteLine(customList.LastIndexOf(3));
+                        Console.WriteLine(customList.LastIndexOf("string"));
                         break;
                     default:
                         Console.WriteLine("Wrong Input");
