@@ -78,7 +78,7 @@ namespace CL.Models
         public void Remove(T value)
         {
             int index = IndexOf(value);
-            RemoveAt(index);
+            if(index != -1)RemoveAt(index);
         }
         public void RemoveAt(int index)
         {
